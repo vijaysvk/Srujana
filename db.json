@@ -1,10 +1,9 @@
 {
     "grnNo": "INV/1/24-25/862",
     "vendorCode": "185",
-    "purchesOrderNo": "SE10100/2024-25",
-    "purchesDate": "Aug 24, 2024",
+   
     "invoiceNo": "9224251310",
     "materialCode": 54,
-    "materialDescriptrion": "RMB079360",
+ 
     "totalQty": " 169.8"
 }
