@@ -1,9 +1,10 @@
 {
-    "grnNo": "INV/1/24-25/862",
+     "posts": [
+    {"grnNo": "INV/1/24-25/862",
     "vendorCode": "185",
-   
     "invoiceNo": "9224251310",
-    "materialCode": 54,
- 
+    "materialCode": 54, 
     "totalQty": " 169.8"
+    }
+     ]
 }
